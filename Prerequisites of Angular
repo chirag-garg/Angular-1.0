@@ -1,1 +1,20 @@
+Day 0 - 28-05-2020
+-----------------------
+Prerequisites :
+HTML & CSS
+JavaScript/TypeScript
+
+Source : youtube JavaBrains
+Angular 6 Basics 1 - Introduction
+
+Angular Technologies - Must have to learn
+1. Angular
+2. JavaScript/ TypeScript
+3. Angular CLI
+4. Reactive Programming, RxJS, Observables, Operators
+5. Jasmine, Karma
+6. Redux, ngRx
+
+Angular 6 Basics 2 - Component Based Model
+In front-end web development HTML is the static portion of the application. JavaScript is the dynamic portion of the application.
 
